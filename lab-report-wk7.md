@@ -12,33 +12,33 @@ This is the shortest sequence our group come up with:
 
 Firstly, I use `vim DocSearchServer.java` to enter the vim mode of the file.
 
-![image]() start.png
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/%3Cstart%3E.png)
 
 `/start` gets me to this step that it searches for and selects the first occurance of `start` in the java file.
 
-![image]() enter.png
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/%3Center%3E.png) 
 
 `<enter>` gets me to this step, where it selects the first letter of `start`.
 
-![image]() dw i base (1
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20(1.png) 
 
 `dw` helps to delete `start`, and `i` helps to enter the insert mode, so I can type `base` to substitude for `start`.
 
 Then I press `<esc>` to get to the normal mode.
 
-![image]() n dw (1
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n%20dw%20(1.png) 
 
 `n` helps me to move to the next `start`, and `dw` helps to delete the selecting word.
 
-![image]() i base
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/i%20base%20%3Cesc%3E.png) 
 
 `i` gets me to the insert mode, so that I can type `base` to substitude. `<esc>` gets me to the normal mode.
 
-![image]() n
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n.png) 
 
 The same, `n` gets me to the next `start`.
 
-![image]() dw i base esc
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20%3Cesc%3E.png) 
 
 `dw` helps to delete `start`, and `i` helps to enter the insert mode, so I can type `base` to substitude for `start`.
 
@@ -46,7 +46,7 @@ Then I press `<esc>` to get to the normal mode.
 
 The last `start` continues the same process.
 
-![image]() last one
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/last%20one.png) 
 
 `n` helps to get to the next and last `start`, then `dw` helps to delete, `i` enters insert mode, `base`, then `<esc>` 
 
