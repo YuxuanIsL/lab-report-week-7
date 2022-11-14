@@ -16,20 +16,20 @@ Firstly, I use `vim DocSearchServer.java` to enter the vim mode of the file.
 
 `/start` gets me to this step that it searches for and selects the first occurance of `start` in the java file.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/%3Center%3E.png) 
+![image](./%3Center%3E.png) 
 
 `<enter>` gets me to this step, where it selects the first letter of `start`.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20.png)
+![image](./dw%20i%20base%20.png)
 `dw` helps to delete `start`, and `i` helps to enter the insert mode, so I can type `base` to substitude for `start`.
 
 Then I press `<esc>` to get to the normal mode.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n%20dw%20.png)) 
+![image](./n%20dw%20.png)) 
 
 `n` helps me to move to the next `start`, and `dw` helps to delete the selecting word.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/i%20base%20%3Cesc%3E.png) 
+![image](./i%20base%20%3Cesc%3E.png) 
 
 `i` gets me to the insert mode, so that I can type `base` to substitude. `<esc>` gets me to the normal mode.
 
@@ -37,7 +37,7 @@ Then I press `<esc>` to get to the normal mode.
 
 The same, `n` gets me to the next `start`.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20%3Cesc%3E.png) 
+![image](./dw%20i%20base%20%3Cesc%3E.png) 
 
 `dw` helps to delete `start`, and `i` helps to enter the insert mode, so I can type `base` to substitude for `start`.
 
@@ -45,7 +45,7 @@ Then I press `<esc>` to get to the normal mode.
 
 The last `start` continues the same process.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/last%20one.png) 
+![image](./last%20one.png) 
 
 `n` helps to get to the next and last `start`, then `dw` helps to delete, `i` enters insert mode, `base`, then `<esc>` 
 
