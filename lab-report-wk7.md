@@ -20,13 +20,12 @@ Firstly, I use `vim DocSearchServer.java` to enter the vim mode of the file.
 
 `<enter>` gets me to this step, where it selects the first letter of `start`.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20(1.png) 
-
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/dw%20i%20base%20.png)
 `dw` helps to delete `start`, and `i` helps to enter the insert mode, so I can type `base` to substitude for `start`.
 
 Then I press `<esc>` to get to the normal mode.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n%20dw%20(1.png) 
+![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n%20dw%20.png)) 
 
 `n` helps me to move to the next `start`, and `dw` helps to delete the selecting word.
 
