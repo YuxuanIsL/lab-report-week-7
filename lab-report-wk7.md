@@ -12,7 +12,7 @@ This is the shortest sequence our group come up with:
 
 Firstly, I use `vim DocSearchServer.java` to enter the vim mode of the file.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/%3Cstart%3E.png)
+![image](./%3Cstart%3E.png)
 
 `/start` gets me to this step that it searches for and selects the first occurance of `start` in the java file.
 
