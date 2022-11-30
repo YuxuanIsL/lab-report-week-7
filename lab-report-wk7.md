@@ -33,7 +33,7 @@ Then I press `<esc>` to get to the normal mode.
 
 `i` gets me to the insert mode, so that I can type `base` to substitude. `<esc>` gets me to the normal mode.
 
-![image](https://github.com/YuxuanIsL/lab-report-week-7/blob/main/n.png) 
+![image](./n.png) 
 
 The same, `n` gets me to the next `start`.
 
